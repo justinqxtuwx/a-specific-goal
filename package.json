@@ -1,0 +1,26 @@
+{
+"name": "a-specific-goal",
+"version": "1.0.0",
+"description": "Our project is driven by a specific goal: to revolutionize the way small businesses manage their finances.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/justinqxtuwx/a-specific-goal.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "justinqxtuwx",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
